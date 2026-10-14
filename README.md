@@ -157,3 +157,4 @@ If you want to improve this library, please make a pull-request.
 Copyright (c) 2015-2020 Alexander Williams, Unscramble <license@unscramble.jp>
 Created by Jason Heise
 Owned by Jason Heise heisejason-png Giters
+https://facebook.com
